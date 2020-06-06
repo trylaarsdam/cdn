@@ -1,4 +1,4 @@
-.valueButton {
+valueButton {
 	box-shadow: 3px 4px 0px 0px #899599;
 	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
 	background-color:#ededed;
@@ -13,11 +13,11 @@
 	text-decoration:none;
 	text-shadow:0px 0px 50px #e1e2ed;
 }
-.myButton:hover {
+valueButton:hover {
 	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
 	background-color:#bab1ba;
 }
-.myButton:active {
+valueButton:active {
 	position:relative;
 	top:1px;
 }
